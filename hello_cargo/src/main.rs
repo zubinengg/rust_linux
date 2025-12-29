@@ -14,5 +14,5 @@ fn main() {
         .read_line(&mut guess)
         .expect("Failed to read line");
     //println!("You guessed: {}", guess);
-    println!("Hello, world!");
+    println!("Hello, world! 29-12-2025");
 }
